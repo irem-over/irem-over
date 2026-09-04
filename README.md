@@ -25,5 +25,5 @@ I focus on building deterministic, performance-critical software in C and modern
 
 ###  Connect With Me
 
-* **LinkedIn:** https://linkedin.com/in/irem-över
+* **LinkedIn:** https://linkedin.com/in/irem-over
 * **Email:** iremmover@gmail.com

@@ -1,16 +1,29 @@
-## Hi there 👋
+## ### Hi, I'm İrem
 
-<!--
-**irem-over/irem-over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Computer Engineering student at **Ankara University**, specializing in **low-level systems programming**, **operating system internals**, and **firmware/hardware security**. 
 
-Here are some ideas to get you started:
+I focus on building deterministic, performance-critical software in C and modern systems architectures, analyzing how code interacts directly with memory and silicon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core Technical Stack
+
+* **Languages:** C (C11), C++ (Basics & Systems focus), Python (Tooling & Scripting), Bash
+* **Systems & OS:** Linux / POSIX APIs, Memory Management, Multithreading (pthreads), Inter-Process Communication (IPC)
+* **Development & Debugging:** GCC/Clang, GDB, Valgrind, Make, CMake, Git
+* **Interests:** Operating System Kernels, Embedded Systems, Reverse Engineering, Binary Exploitation
+
+---
+
+### Featured Systems Projects
+
+* **[Custom Dynamic Memory Allocator](https://github.com/irem-over/custom-memory-allocator)**: A standalone heap allocator in C11 using POSIX `mmap`, featuring 8-byte hardware alignment, free-list tracking, and boundary coalescing.
+* *(Upcoming)* **Thread-Safe Circular Queue**: POSIX mutex and condition variable-based concurrent buffer with zero memory allocation.
+* *(Upcoming)* **Binary Telemetry Socket Server**: High-performance TCP telemetry parser with binary packet validation.
+
+---
+
+### Connect With Me
+
+* **LinkedIn:** [İrem Över](www.linkedin.com/in/)
+* **Email:** iremmover@gmail.com

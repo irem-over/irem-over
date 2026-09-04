@@ -1,4 +1,4 @@
-## ### Hi, I'm İrem
+### Hi, I'm İrem
 
 I am a senior Computer Engineering student at **Ankara University**, specializing in **low-level systems programming**, **operating system internals**, and **firmware/hardware security**. 
 
@@ -6,7 +6,7 @@ I focus on building deterministic, performance-critical software in C and modern
 
 ---
 
-### Core Technical Stack
+###  Core Technical Stack
 
 * **Languages:** C (C11), C++ (Basics & Systems focus), Python (Tooling & Scripting), Bash
 * **Systems & OS:** Linux / POSIX APIs, Memory Management, Multithreading (pthreads), Inter-Process Communication (IPC)
@@ -15,7 +15,7 @@ I focus on building deterministic, performance-critical software in C and modern
 
 ---
 
-### Featured Systems Projects
+###  Featured Systems Projects
 
 * **[Custom Dynamic Memory Allocator](https://github.com/irem-over/custom-memory-allocator)**: A standalone heap allocator in C11 using POSIX `mmap`, featuring 8-byte hardware alignment, free-list tracking, and boundary coalescing.
 * *(Upcoming)* **Thread-Safe Circular Queue**: POSIX mutex and condition variable-based concurrent buffer with zero memory allocation.
@@ -23,7 +23,7 @@ I focus on building deterministic, performance-critical software in C and modern
 
 ---
 
-### Connect With Me
+###  Connect With Me
 
-* **LinkedIn:** [İrem Över](www.linkedin.com/in/)
+* **LinkedIn:** https://linkedin.com/in/irem-över
 * **Email:** iremmover@gmail.com

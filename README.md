@@ -1,29 +1,41 @@
-### Hi, I'm İrem
+# Hi, I'm İrem
 
-I am a senior Computer Engineering student at **Ankara University**, specializing in **low-level systems programming**, **operating system internals**, and **firmware/hardware security**. 
+I'm a senior Computer Engineering student at Ankara University, focusing on **Computer Vision, geometric vision, and AI-driven perception**.
 
-I focus on building deterministic, performance-critical software in C and modern systems architectures, analyzing how code interacts directly with memory and silicon.
+I'm interested in understanding the mathematics behind visual perception and building reliable software for robotics and autonomous systems.
 
----
+## Current Focus
 
-###  Core Technical Stack
+- **Computer Vision:** camera models, calibration, pose estimation, and visual odometry
+- **C++ Development:** modern C++, OpenCV, Eigen, CMake, and software testing
+- **AI & Deep Learning:** neural networks, image segmentation, and experimental evaluation
+- **Research Implementation:** understanding published methods, implementing algorithms, and validating results
 
-* **Languages:** C (C11), C++ (Basics & Systems focus), Python (Tooling & Scripting), Bash
-* **Systems & OS:** Linux / POSIX APIs, Memory Management, Multithreading (pthreads), Inter-Process Communication (IPC)
-* **Development & Debugging:** GCC/Clang, GDB, Valgrind, Make, CMake, Git
-* **Interests:** Operating System Kernels, Embedded Systems, Reverse Engineering, Binary Exploitation
+## Featured Project
 
----
+### Monocular Visual Odometry
+**C++20 · OpenCV · Eigen · CMake** · *In progress*
 
-###  Featured Systems Projects
+Developing a monocular visual odometry pipeline to estimate camera motion from consecutive images while building a solid understanding of the underlying geometry.
 
-* **[Custom Dynamic Memory Allocator](https://github.com/irem-over/custom-memory-allocator)**: A standalone heap allocator in C11 using POSIX `mmap`, featuring 8-byte hardware alignment, free-list tracking, and boundary coalescing.
-* *(Upcoming)* **Thread-Safe Circular Queue**: POSIX mutex and condition variable-based concurrent buffer with zero memory allocation.
-* *(Upcoming)* **Binary Telemetry Socket Server**: High-performance TCP telemetry parser with binary packet validation.
+Current development includes dataset handling, camera calibration and ground-truth pose parsing, and tests for core components.
 
----
+Planned stages include feature matching, relative pose estimation, trajectory reconstruction, and quantitative evaluation.
 
-###  Connect With Me
+[View the project](https://github.com/irem-over/monocular-visual-odometry)
 
-* **LinkedIn:** https://linkedin.com/in/irem-over
-* **Email:** iremmover@gmail.com
+## Other Academic Projects
+
+- **EPnP Implementation:** implementing and evaluating a research-based camera pose estimation algorithm.
+- **Neural Networks Research Project:** exploring brain-tumor segmentation under missing MRI modalities, based on a research paper.
+- **Web GIS:** developing a web-based Geographic Information System.
+- **iOS Application Development:** building an iOS application as part of my coursework.
+
+## Technical Stack
+
+`C++20` · `OpenCV` · `Eigen` · `CMake` · `Git`
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/irem-over](https://linkedin.com/in/irem-over)
+- **Email:** iremmover@gmail.com
